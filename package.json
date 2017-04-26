@@ -1,0 +1,24 @@
+{
+  "name": "gruntprojectsetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranerahulj/GruntSetupPrj.git"
+  },
+  "author": "Rahul Rane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranerahulj/GruntSetupPrj/issues"
+  },
+  "homepage": "https://github.com/ranerahulj/GruntSetupPrj#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.1.0",
+    "grunt-contrib-uglify": "^2.3.0"
+  }
+}
